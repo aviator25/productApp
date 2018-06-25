@@ -25,7 +25,7 @@ export class AddItemPage {
   saveItem(){
 
   	let newItem = {
-  		title: this.tile,
+  		title: this.title,
   		description: this.description
   	};
 
